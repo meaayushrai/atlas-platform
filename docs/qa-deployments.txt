@@ -1,0 +1,9 @@
+Atlas Payments - QA Deployment Procedure
+
+1. Verify the deployment package.
+2. Confirm the QA environment is available.
+3. Deploy the application package.
+4. Validate application health.
+5. Review deployment logs.
+6. If validation fails, initiate the rollback procedure.
+7. Notify QA after successful deployment.
