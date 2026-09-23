@@ -2,5 +2,5 @@
 
 Enterprise payment processing platform.
 
-Deployment Owner: Platform Engineering
+Team: Atlas Platform Engineering
 Environments: Development, QA
