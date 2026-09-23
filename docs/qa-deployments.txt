@@ -5,4 +5,5 @@ Atlas Payments - QA Deployment Procedure
 3. Deploy the application package.
 4. Validate application health.
 5. Review deployment logs.
-6. Notify QA after successful deployment.
+6. If validation fails, initiate the rollback procedure.
+7. Notify QA after successful deployment.
