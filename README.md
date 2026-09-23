@@ -2,5 +2,5 @@
 
 Enterprise payment processing platform.
 
-Team: Platform Engineering
+Deployment Owner: Platform Engineering
 Environments: Development, QA
