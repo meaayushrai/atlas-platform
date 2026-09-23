@@ -2,5 +2,5 @@
 
 Enterprise payment processing platform.
 
-Team: Platform Engineering
+Team: Atlas Platform Engineering
 Environments: Development, QA
